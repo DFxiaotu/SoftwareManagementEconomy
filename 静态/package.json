@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@vue/cli-plugin-unit-jest": "^5.0.8",
+    "@vue/test-utils": "^2.4.6",
+    "jest": "^27.5.1",
+    "vue-jest": "^3.0.7"
+  }
+}
